@@ -6,7 +6,7 @@ const Footer = () => {
 
 
         
-      <p>© 2025 Sanglap Acharyya | All Rights Reserved</p>
+      <p>© 2025 Shatavisha Chakraborty | All Rights Reserved</p>
     </div>
   );
 };
